@@ -1,0 +1,43 @@
+.whole{
+    width: 70vh;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    left: 58vh;
+    z-index: 10;
+    top: 21vh;
+    padding: 19px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    overflow-y: scroll;
+}
+.profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.smallDiv{
+    width: 100%;
+    height: 65px;
+    display: flex;
+    align-items: center;
+}
+.xmark{
+    position: absolute;
+    top: 2vh;
+    left: 70vh;
+    cursor: pointer;
+    font-size: 27px;
+}
+.admin{
+    color: rgb(255, 208, 0);
+    margin-left: auto;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+.inner{
+    width: 100%;
+    overflow-y: scroll;
+}

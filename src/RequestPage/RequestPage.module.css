@@ -1,0 +1,48 @@
+.whole{
+    width: 748px;
+    height: 100%;
+    background-color: white;
+    margin: auto;
+}
+.innerdiv{
+    width: 97%;
+    height: 60px;
+    /* background-color: aquamarine; */
+    margin-top: 10px;
+    display: flex;
+    padding: 22px 11px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 2px solid #8080802e;
+
+}
+.profile{
+    width: 67px;
+    height: 67px;
+    border-radius: 50%;
+}
+.username{
+    width: 300px;
+    display: flex;
+    font-size: 20px;
+}
+.accept{
+    width: 95px;
+    padding: 8px 10px;
+    background-color: #b7dbb7;
+    border: none;
+    color: green;
+    border: 2px solid green;
+    font-size: 17px;
+    border-radius: 7px;
+}
+.reject{
+    width: 95px;
+    padding: 8px 10px;
+    background-color: #ffbebe;
+    border: none;
+    color: red;
+    border: 2px solid red;
+    font-size: 17px;
+    border-radius: 7px;
+}

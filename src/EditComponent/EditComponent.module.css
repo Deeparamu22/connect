@@ -1,0 +1,16 @@
+.whole{
+    width: 148px;
+    height: 73px;
+    background-color: white;
+    box-shadow: 0px 0px 3px 0px black;
+    position: absolute;
+    margin-top: 34px;
+    text-align: left;
+    padding: 10px;
+}
+.edit{
+    margin-top: 10px;
+}
+.trash{
+    color: red;
+}

@@ -1,0 +1,7 @@
+.whole{
+    margin-left: 0px;
+    background-color: white;
+    transition-property: margin-left;
+    transition-duration: 0.5s;
+    z-index: 1;
+}

@@ -1,0 +1,107 @@
+.whole{
+    width: 97%;
+    padding: 10px;
+    background-color: white;
+    border-top: 1px solid gray;
+    display: flex;
+}
+.profilephoto{
+    width: 42px;
+    height: 42px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: #6e6e6e;
+    border-radius: 50%;
+}
+.inner{
+    width: 90%;
+    text-align: left;
+    padding: 10px;
+    color: #5757a3;
+    font-size: 17px;
+}
+h4{
+    margin: 0;
+    margin-bottom: 11px;
+}
+.postbottom{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.startCon{
+    font-size: 15px;
+    color: gray;
+    margin-right: 17px;
+    margin-left: 4px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: space-around;
+}
+.flex{
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+}
+.edit{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.trash{
+    color: red;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.threedots{
+    margin-left: auto;
+    display: flex;
+    position: relative;
+    width: 151px;
+    flex-direction: column;
+    align-items: flex-end;
+    cursor: pointer;
+}
+.text{
+    width: 90%;
+    height: 90px;
+    resize: none;
+    padding: 10px;
+}
+.sharbtn{
+    background-color: #505BB1;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    height: 32px;
+    margin-right: 10px;
+    width: 91px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.sharbtn1{
+    margin-left: auto;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 4px;
+    color: gray;
+    height: 32px;
+    margin-right: 10px;
+    width: 91px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.updatewhole{
+    width: 96%;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.textarea2{
+       font-size: 16px;
+       font-family: 'Noto Sans Display', sans-serif;
+       margin: 0;
+    color: #6e6e6e;
+}

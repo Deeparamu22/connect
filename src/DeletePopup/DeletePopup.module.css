@@ -1,0 +1,46 @@
+.whole{
+    width: 50vh;
+    height: 20vh;
+    background-color: white;
+    margin: auto;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: left;
+    margin-top: 10vh;
+}
+h1{
+    margin-bottom: 2vh;
+    padding: 0;
+}
+.youare{
+    color:#6d7487
+}
+.updatewhole{
+    width: 96%;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.sharbtn{
+    background-color: #e16161;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    height: 32px;
+    margin-right: 10px;
+    width: 91px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.sharbtn1{
+    margin-left: auto;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 4px;
+    color: gray;
+    height: 32px;
+    margin-right: 10px;
+    width: 91px;
+    font-size: 15px;
+    font-weight: 700;
+}

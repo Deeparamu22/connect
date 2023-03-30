@@ -1,0 +1,122 @@
+.whole{
+    width: 97%;
+    /* height: 100px; */
+    background-color: white;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.posttop{
+    width: 100%;
+    display: flex; 
+}
+.profilephoto{
+    width: 42px;
+    height: 42px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: #6e6e6e;
+    border-radius: 50%;
+}
+.startCon{
+    font-size: 16px;
+       font-family: 'Noto Sans Display', sans-serif;
+       margin: 0;
+    color: gray;
+    margin-right: 17px;
+    margin-left: 4px;
+    cursor: pointer;
+
+}
+.threedots{
+    margin-left: auto;
+    display: flex;
+    position: relative;
+    width: 151px;
+    flex-direction: column;
+    align-items: flex-end;
+    cursor: pointer;
+}
+.edit{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.trash{
+    color: red;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.postbottom{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.postInner1{
+    padding: 4px 20px;
+    text-align: left;
+    width: 95%;
+}
+span{
+    color: #4f5aac;
+}
+.titleinput{
+    width: 97%;
+    height: 30px;
+    border: none;
+    font-size: 20px;
+    padding: 3px 10px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.textarea1{
+     width: 97%;
+    height: 53px;
+    outline: none;
+    resize: none;
+    margin-bottom: 10px;
+    padding: 3px 10px;
+}
+.sharbtn{
+    background-color: #505BB1;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    height: 32px;
+    margin-right: 10px;
+    width: 91px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.sharbtn1{
+    margin-left: auto;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 4px;
+    color: gray;
+    height: 32px;
+    margin-right: 10px;
+    width: 91px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.updatewhole{
+    width: 100%;
+    display: flex;
+}
+.likeDiv{
+    width: 97%;
+    height: 30px;
+    border-top: 1px solid lightgray;
+    display: flex;
+    padding-left: 22px;
+    color: #222260;
+    margin-top: 10px;
+    align-items: center;
+}
